@@ -1,0 +1,11 @@
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\bin\Release\UC12_CalculadoraSimples.exe.config
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\bin\Release\UC12_CalculadoraSimples.exe
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\bin\Release\UC12_CalculadoraSimples.pdb
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12 - Aula I - Calculadora simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12___Aula_I___Calculadora_simples.Form1.resources
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12___Aula_I___Calculadora_simples.Properties.Resources.resources
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12 - Aula I - Calculadora simples.csproj.GenerateResource.cache
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12 - Aula I - Calculadora simples.csproj.CoreCompileInputs.cache
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12_CalculadoraSimples.exe
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12_CalculadoraSimples.pdb
+C:\Users\joao.gsbalbino\OneDrive - SENAC - SP\Documentos\UC12\UC12 - Aula I - Calculadora simples\obj\Release\UC12 - Aula I - Calculadora simples.csproj.AssemblyReference.cache
